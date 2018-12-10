@@ -9,6 +9,7 @@ Profiles can be created from scratch or built from a personal contact in your co
 Forms can be created for each profile. Then can be stored and referenced for later viewing.
 * note data persistence was not added into this project repository.
 * if requested: I can give the additional code for you to set this up using Googles Firestore.
+* you'll need to add in your google service info.plist file as well
 
 ![img_9948](https://user-images.githubusercontent.com/22564735/49760329-19ddaa80-fc79-11e8-86af-7634e9f6b918.PNG)
 ![img_9949](https://user-images.githubusercontent.com/22564735/49760330-1a764100-fc79-11e8-8150-821d0c670bf5.PNG)
